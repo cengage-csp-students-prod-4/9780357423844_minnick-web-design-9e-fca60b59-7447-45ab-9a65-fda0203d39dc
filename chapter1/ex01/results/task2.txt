@@ -4,4 +4,4 @@ Check: 1
 Test: Add the `lang` attribute to the starting `html` tag and specify the language as 'English' as follows: `<html lang="en">
 Reason: Assertion failed: 'lang' not found in {}
 Error : AssertionError - 'lang' not found in {}
-Timestamp: 2026-04-14 00:01:32.068782
+Timestamp: 2026-04-14 00:02:10.112435
